@@ -1,0 +1,2 @@
+# Meltharond
+The spellcaster supposedly riding [[Arveiaturace]] on its back. The dragon spoke the name when we encountered it at [[The Dark Duchess]]. The figure didn't seem to be alive anymore though, when we spotted it sitting lifeless on the dragon's back when we escaped from it under the sea.
