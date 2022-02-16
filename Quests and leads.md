@@ -37,11 +37,15 @@
 	- [ ] [[Nass Lantomir]] wanting to end the Endless Winter
 
 ### Frozen Roses
-- [ ] Find their [[Frozen Roses hideout|hideout]] north of Lonelywood, in a cave in the woods. Cave has a large mammoth skull as entry.
-	- [ ] Talk to [[Adelia]], their leader.
-	- [ ] What are their motives?
-	- [ ] What is their interest in the lantern? Why did [[Torrga Icevein|Torrga]] had to die for it?
-	- [ ] Ask about ransom notes, like the one [[Sephak]] carried with him, and how they tie to the kill list we found in the [[Sunless Grove]]
+- [x] Find their [[Frozen Roses hideout|hideout]] north of Lonelywood, in a cave in the woods. Cave has a large mammoth skull as entry.
+	- [x] Talk to [[Adelia]], their leader.
+		- We kill [[Adelia]] and her right hand [[Blink]] when we encountered [[Shalheira]] at their [[21. A Frozen Rose By Any Other Name...|hideout]].
+	- [x] What are their motives?
+		- Widows from sacrificed men in [[Ten Towns]]
+	- [x] What is their interest in the lantern? Why did [[Torrga Icevein|Torrga]] had to die for it?
+		- Means of income, wanted to sell it to one of two bidding wizards, [[Dzaan]] and [[Avarice]].
+		- [[Torrga Icevein|Torrga]] was about to betray the location of the [[Frozen Roses hideout]] and had to die for not exposing them to unwanted outsider meddling.
+	- [x] Ask about ransom notes, like the one [[Sephak]] carried with him, and how they tie to the kill list we found in the [[Sunless Grove]]
 
 ### Omareth Baenre, the necromancer
 - [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
@@ -53,12 +57,11 @@
 	- Omareth is using the entire mountain as it's phylactery, luring souls of the dead to it in the form of moths.
 
 ### Shark skin map
-- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg]]
+- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg|shark skin map]]
 	- Go to Bremen and inquire about it
 	- Seems like it marks the location of the ship Santiago eagerly wants to find
 
 ### The elemental lantern
-- [ ] The [[Frozen Roses]] were interrogating Torrga for the location of the lantern and then killed her for it when she didn't know.
 - [ ] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
 - [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
 
@@ -71,7 +74,6 @@
 	- We learned from [[Vellynne Harpell]] that chardalyn is called Crenshinibon in ancient elvish. The metal seems to thrive and grow as a root-like system in very cold climates.
 	- Crenshinibon apparently originates from a distant planet, having crashed here for some reason.
 	- Duergar were mining chardalyn to manufacture a mechanical dragon.
-
 
 ## Completed
 ### Kobold mine
