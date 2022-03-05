@@ -8,3 +8,7 @@ A magical talking orb, previously belonging to [[Nass Lantomir]] and [[Vellynne 
 4. The tarrasque
 
 It is now back in the possession of [[Vellynne Harpell]] as it was purportedly "borrowed" by [[Nass Lantomir]].
+
+Lots of people coming into [[Bryn Shander]] from other towns, who are having trouble with managing the religious zeal of followers of the [[Creed of Auril]], mainly [[Caer-Dineval]] and [[Targos]]. Got in town early to have one on one sessions with speakers they can trust.
+
+Oarus mentions the Creed consists mainly of cells, but there is some hierarchy. 
