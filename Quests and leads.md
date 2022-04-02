@@ -1,18 +1,6 @@
 # Quests and leads
 
 ## Open
-### Talking creatures
-- [x] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
-	- Dealt with the monster, made a deal with it that it would leave [[Amala Bhilar|Amala]] alone in exchange for food.
-- [x] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
-	- Killed the white moose at the [[Sunless Grove]]
-- [x] Talking penguin named Kingsporth.
-	- Given the ability to speak by [[Ravisin]]
-	- [[Santiago Cruz de los Santos, or Grok|Santiago]] carries him in his backpack
-- [ ] Talking owl that spoke to [[Henrack]]
-	- Appears the owl is [[Ravisin]]? She turned into an owl after the battle in the [[Sunless Grove]].
-	- Henrack and Ravisin appeared to be lovers/partners, but she left Henrack to die when we were fighting him
-
 ### Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].
 	- [x] [[Creed of Auril]]l, cult dedicated to [[Auril, The Frostmaiden|Auril]]?
@@ -46,6 +34,9 @@
 		- Means of income, wanted to sell it to one of two bidding wizards, [[Dzaan]] and [[Avarice]].
 		- [[Torrga Icevein|Torrga]] was about to betray the location of the [[Frozen Roses hideout]] and had to die for not exposing them to unwanted outsider meddling.
 	- [x] Ask about ransom notes, like the one [[Sephak]] carried with him, and how they tie to the kill list we found in the [[Sunless Grove]]
+	- We dealt with [[Adelia]] and [[Blink]], so [[Shalheira]] could take over leadership and work out friendlier terms with [[Ten Towns]]
+	- [ ] Attend council meeting to discuss their fate
+		- Council has ruled in favour of the deal with the Frozen Roses.
 
 ### Omareth Baenre, the necromancer
 - [ ] The necromancer that killed Yerthid visited me in my dreams and in the mist on the way to the druid circle.
@@ -54,16 +45,23 @@
 	- We learned that Omareth was now the sovereign of the "growing mountain" and was studying it. Could be referencing [[Kelvin's Cairn]]?
 	- [[Bailon the Beardless|Bailon]] mentioned inquiring about this necromancer with [[Gorom]], an ancient creature living in [[Kelvin's Cairn]].
 	- Omareth has in fact ascended to lichdom, which makes him an immortal undead mage.
-	- Omareth is using the entire mountain as it's phylactery, luring souls of the dead to it in the form of moths.
+	- Omareth is using the entire mountain as his phylactery, luring souls of the dead to it in the form of moths.
 
 ### Shark skin map
-- [ ] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg|shark skin map]]
+- [x] Try to find the locations written on Henrack's [[henrack-shark-skin-map.jpg|shark skin map]]
 	- Go to Bremen and inquire about it
 	- Seems like it marks the location of the ship Santiago eagerly wants to find
+- [x] Found the ship
+	- Dragon hoard of [[Arveiaturace]]
+	- Looted it
+- [ ] Find the bell
 
 ### The elemental lantern
 - [ ] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
-- [ ] Dzaan was in a bidding war for the lantern with someone named Avarice.
+	- Dzaan was in a bidding war for the lantern with someone named Avarice.
+	- Dzaan was captured in Easthaven when he coerced a group of young adventurers with magic to find the lantern we carry.
+	- Is held for trial at a Council of Speakers where his fate will be determined
+	- [[Vellynne Harpell|Vellynne]] wants him alive for his knowledge of the larger mythallar in [[Ythrin]]
 
 ### Colder than steel
 - [ ] [[Kelvin's Cairn]] seems to be a source for a newly discovered metal with great properties for forging and retaining magic enchantments.
@@ -130,3 +128,15 @@
 	- Two more wooden rings on dead bodies in the [[Sunless Grove]]
 	- We encountered a [[White moose|white moose]] at the grove. Killing it has seemed to stop the killing of the loggers.
 
+
+### Talking creatures
+- [x] Encountered [[Talking lake monster|talking lake monster]] on the way to Termalaine.
+	- Dealt with the monster, made a deal with it that it would leave [[Amala Bhilar|Amala]] alone in exchange for food.
+- [x] Two fishermen in [[Termalaine]] spoke about two hunters from [[Lonelywood]] encountering a talking white moose.
+	- Killed the white moose at the [[Sunless Grove]]
+- [x] Talking penguin named Kingsporth.
+	- Given the ability to speak by [[Ravisin]]
+	- [[Santiago Cruz de los Santos, or Grok|Santiago]] carries him in his backpack
+- [x] Talking owl that spoke to [[Henrack]]
+	- Appears the owl is [[Ravisin]]? She turned into an owl after the battle in the [[Sunless Grove]].
+	- Henrack and Ravisin appeared to be lovers/partners, but she left Henrack to die when we were fighting him
