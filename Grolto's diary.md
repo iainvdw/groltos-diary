@@ -22,6 +22,14 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[16. Gorom's Guidance]]
 - [[17. The Siege of Deep Delver's Enclave]]
 - [[18. Deep Reaching Shadows]]
+- [[19. Black Cabin On The White Hill]]
+- [[20. Lifeless Luster]]
+- [[21. A Frozen Rose By Any Other Name...]]
+- [[22. ... Still Feels As Cold]]
+- [[23. A Duchess on Ice]]
+- [[24. A Dragon's Hoard Is Not Enough]]
+- [[25. Speakers Assemble]]
+- [[26. Comforting of the Council]]
 
 ## Quests and leads
 
@@ -29,4 +37,5 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 
 ## Map of the region
 
-![[Ten Towns]]
+![[ten-towns.png]]
+[[Ten Towns]]
