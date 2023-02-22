@@ -8,7 +8,7 @@ LANDING_BUTTON = "Explore"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Diary of the adventures of Grolto Granitemuncher - Blood Hunter"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Home"
+LANDING_PAGE = "grolto-s-diary"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Grolto's Diary"
 PYTHON_VERSION = "3.8"

@@ -30,6 +30,18 @@ This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters 
 - [[24. A Dragon's Hoard Is Not Enough]]
 - [[25. Speakers Assemble]]
 - [[26. Comforting of the Council]]
+- [[27. Session 27]]
+- [[28. Session 28]]
+- [[29. Session 29]]
+- [[30. Session 30]]
+- [[31. Session 31]]
+- [[32. Session 32]]
+- [[33. Session 33]]
+- [[34. Session 34]]
+- [[35. Session 35]]
+- [[36. Session 36]]
+- [[37. Session 37]]
+- [[38. Session 38]]
 
 ## Quests and leads
 
