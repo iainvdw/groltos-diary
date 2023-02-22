@@ -6,8 +6,9 @@
 	- [x] Travels with Torrg's, merchant caravan led by [[Torrga Icevein]].
 	- [x] Was together with [[Sephak]], who we killed.
 	- [x] Suspected murderer of [[Ivahn of Daerlun]] and [[Gareth of Daerlun]].
-- [ ] Ravisin seems to be part of the murdering cult as well. We need to find her and end this madness.
+- [x] Ravisin seems to be part of the murdering cult as well. We need to find her and end this madness.
 	- [[Kingsporth]] mentioned Ravisin had left for a frost giant cavern near [[Easthaven]]
+	- She was killed in the Caves of Hunger
 
 ### Ten Towns sacrifices
 - [x] [[Ivahn of Daerlun]] was about to be sacrificed. Saved him.
@@ -18,9 +19,9 @@
 	- [ ] There was talk about people paying money to not be picked in the sacrifice lottery.
 	- [ ] Sacrifices started about two months ago.
 	- [ ] Speaker from Dougan's Hall spoke to [[Speaker Oarus|Oarus]] about the sacrifices.
-	- [ ] Wizards in [[Easthaven]] wanting to end the Endless Winter.
-	- [ ] [[Ravisin]] wanting to end the Endless Winter
-	- [ ] [[Nass Lantomir]] wanting to end the Endless Winter
+	- [x] Wizards in [[Easthaven]] wanting to end the Endless Winter.
+	- [x] [[Ravisin]] wanting to end the Endless Winter
+	- [x] [[Nass Lantomir]] wanting to end the Endless Winter
 
 ### Frozen Roses
 - [x] Find their [[Frozen Roses hideout|hideout]] north of Lonelywood, in a cave in the woods. Cave has a large mammoth skull as entry.
@@ -33,7 +34,7 @@
 		- [[Torrga Icevein|Torrga]] was about to betray the location of the [[Frozen Roses hideout]] and had to die for not exposing them to unwanted outsider meddling.
 	- [x] Ask about ransom notes, like the one [[Sephak]] carried with him, and how they tie to the kill list we found in the [[Sunless Grove]]
 	- We dealt with [[Adelia]] and [[Blink]], so [[Shalheira]] could take over leadership and work out friendlier terms with [[Ten Towns]]
-	- [ ] Attend council meeting to discuss their fate
+	- [x] Attend council meeting to discuss their fate
 		- Council has ruled in favour of the deal with the Frozen Roses.
 
 ### Omareth Baenre, the necromancer
@@ -55,7 +56,7 @@
 - [ ] Find the bell
 
 ### The elemental lantern
-- [ ] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
+- [x] A man named [[Dzaan]] from [[Easthaven]] was looking for the elemental lantern to use it to find a certain titan. We can find him in a tavern called The Wet Trout.
 	- Dzaan was in a bidding war for the lantern with someone named Avarice.
 	- Dzaan was captured in Easthaven when he coerced a group of young adventurers with magic to find the lantern we carry.
 	- Is held for trial at a Council of Speakers where his fate will be determined
@@ -110,6 +111,7 @@
 	- Various other items are missing
 	- [[Bailon the Beardless|Bailon]] had a suspicion that these creatures could turn invisible. Combining this lead with the dwarven tracks, these thieves would probably be [[duergar]].
 	- We managed to retrieve the stolen goods from the [[Duergar Fortress]]
+
 ### The Mad King
 - [x] [[King Baerick Battlehammar]] apparently went mad after wearing armor and trinkets made of chardalyn.
 	- Madness not directly tied to chardalyn, as the king was turned into a derro. This was caused by mindflayer magic. Metal could still have something to do with it though. Need to investigate.
