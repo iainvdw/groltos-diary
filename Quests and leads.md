@@ -1,5 +1,3 @@
-# Quests and leads
-
 ## Open
 ### Ten Towns Murders
 - [x] Ernest stabbed [[Hiln Trollbane]].

@@ -1,5 +1,3 @@
-# Grolto's diary
-
 This is the diary of Grolto Granitemuncher. I'm a blood hunter, I hunt monsters and evil.
 
 ## Diary entries
